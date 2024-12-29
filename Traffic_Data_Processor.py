@@ -1,7 +1,3 @@
-# Author: N.L.M.Mendis
-# Date: 24/12/2024
-# Student ID: 20231342 (W2120312)
-
 # Task A: Input Validation
 import tkinter as tk
 
